@@ -10,7 +10,7 @@ An AI-based attendance system that uses facial recognition to automatically mark
 
 
 
-\## 🚀 Features
+\##  Features
 
 
 
@@ -30,7 +30,7 @@ An AI-based attendance system that uses facial recognition to automatically mark
 
 
 
-\## 🛠 Tech Stack
+\##  Tech Stack
 
 
 
@@ -52,7 +52,7 @@ An AI-based attendance system that uses facial recognition to automatically mark
 
 
 
-\## 📂 Project Structure
+\##  Project Structure
 
 
 
@@ -79,6 +79,12 @@ requirements.txt
 
 
 ---
+
+## Note
+
+The dataset folder is not included in this repository due to size limitations.
+You can create your own dataset using dataset_creator.py 
+
 
 
 
@@ -119,4 +125,5 @@ requirements.txt
 \- Model training workflow
 
 \- Building interactive UI with Streamlit
+
 
