@@ -98,10 +98,10 @@ You can create your own dataset using dataset_creator.py
 ![Capturing Face](OUTPUTS/capturing%20face.png)
 
 ### Taking Attendance
-![Taking Attendance](OUTPUTS/page%20for%20taking%20attendence.pn%20g)
+![Taking Attendance](OUTPUTS/page%20for%20taking%20attendence.png)
 
 ### Detected Face & Attendance
-![Detected Face](OUTPUTS/detected%20face_taking%20attendence.pn%20g)
+![Detected Face](OUTPUTS/detected%20face_taking%20attendence.png)
 
 ### Stored Attendance Record
 ![Stored Attendance](OUTPUTS/stored%20attendence%20record.png)
@@ -122,7 +122,7 @@ You can create your own dataset using dataset_creator.py
 ![Side Navigation Panel](OUTPUTS/Side%20navigation%20panel.png)
 
 ### Download Attendance CSV
-![Download Attendance CSV](OUTPUTS/downloading%20attendence.csv.%20png)
+![Download Attendance CSV](OUTPUTS/downloading%20attendence.csv.png)
 
 ### Train the Model
 ![Train the Model](OUTPUTS/train%20the%20model.png)
@@ -168,6 +168,7 @@ You can create your own dataset using dataset_creator.py
 \- Model training workflow
 
 \- Building interactive UI with Streamlit
+
 
 
 
