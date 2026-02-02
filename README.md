@@ -1,4 +1,4 @@
-\# Face Recognition Attendance System
+#  Face Recognition Attendance System
 
 
 
@@ -10,7 +10,7 @@ An AI-based attendance system that uses facial recognition to automatically mark
 
 
 
-\##  Features
+##  Features
 
 
 
@@ -30,7 +30,7 @@ An AI-based attendance system that uses facial recognition to automatically mark
 
 
 
-\##  Tech Stack
+##   Tech Stack
 
 
 
@@ -52,7 +52,7 @@ An AI-based attendance system that uses facial recognition to automatically mark
 
 
 
-\##  Project Structure
+##   Project Structure
 
 
 
@@ -88,7 +88,7 @@ You can create your own dataset using dataset_creator.py
 
 
 
-\## ▶️ How to Run
+##  How to Run
 
 
 
@@ -114,7 +114,7 @@ You can create your own dataset using dataset_creator.py
 
 
 
-\## 📚 Learnings
+##  Learnings
 
 
 
@@ -125,5 +125,6 @@ You can create your own dataset using dataset_creator.py
 \- Model training workflow
 
 \- Building interactive UI with Streamlit
+
 
 
