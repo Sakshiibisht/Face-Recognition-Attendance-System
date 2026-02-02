@@ -86,25 +86,6 @@ The dataset folder is not included in this repository due to size limitations.
 You can create your own dataset using dataset_creator.py 
 
 
-
-
-##  How to Run
-
-
-
-1\. Install dependencies  
-
-&nbsp;  pip install -r requirements.txt  
-
-
-
-2\. Train the model  
-
-&nbsp;  python trainer.py  
-
-
-
-
 ##  Screenshots
 
 ### Home Page
@@ -150,6 +131,22 @@ You can create your own dataset using dataset_creator.py
 ![Unknown Face](OUTPUTS/unknown_non%20registered%20face.png)
 
 
+##  How to Run
+
+
+
+1\. Install dependencies  
+
+&nbsp;  pip install -r requirements.txt  
+
+
+
+2\. Train the model  
+
+&nbsp;  python trainer.py  
+
+
+
 3\. Run the app  
 
 &nbsp;  streamlit run streamlit\_app.py  
@@ -171,6 +168,7 @@ You can create your own dataset using dataset_creator.py
 \- Model training workflow
 
 \- Building interactive UI with Streamlit
+
 
 
 
